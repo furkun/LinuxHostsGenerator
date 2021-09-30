@@ -1,0 +1,4 @@
+https://block.energized.pro/ultimate/formats/hosts
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/furkun/Anti-IP-Grabber-Hosts/main/hosts
+
